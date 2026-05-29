@@ -1,0 +1,11 @@
+streamlit==1.35.0
+groq
+faiss-cpu
+numpy
+requests
+beautifulsoup4
+sentence-transformers
+wikipedia
+langchain-community
+tavily-python
+torch
